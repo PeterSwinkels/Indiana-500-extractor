@@ -9,7 +9,7 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("Indiana 500 Extractor")>
-<Assembly: AssemblyDescription("A program that extracts Indiana 500 data files.")>
+<Assembly: AssemblyDescription("This program extracts Indiana 500 data files.")>
 <Assembly: AssemblyCompany("Peter Swinkels")>
 <Assembly: AssemblyProduct("Indiana 500 Extractor")>
 <Assembly: AssemblyCopyright("***2024***")>
