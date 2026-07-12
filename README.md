@@ -1,1 +1,1 @@
-A program that extracts Indiana 500 data files.
+This program extracts Indiana 500 data files.
